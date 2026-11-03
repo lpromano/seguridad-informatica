@@ -26,10 +26,10 @@ Capacitar a los participantes sobre los riesgos de phishing mediante una experie
 - Total: 10 horas de capacitación
 
 ### Facilitador
-[Tu nombre]
+Ing. Lorena Romano
 
 ### Fecha
-[Fecha del taller]
+Mayo 2026
 
 ---
 
@@ -289,5 +289,5 @@ Si tienes dudas durante el taller:
 
 **Versión**: 1.0
 **Última actualización**: Abril 2026
-**Autor**: [Tu nombre]
+**Autor**: Ing. Lorena Romano
 **Licencia**: Uso educativo únicamente
